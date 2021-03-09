@@ -3,11 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi 🙋🏼‍♂️💃{}
 
-You can call this as an Auto Filter Bot if you like :D
+I'm FC™ HELPER , 
+if you want movie just put a movie request in @FCfilmcornercc
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
-So no need to add filters for your files or movies from now on!
+SHARE AND SUPPORT @FCfilmcornerfc 💘💝
+
+
 
 For more click <i>help</i></b>"""
 
@@ -16,12 +18,12 @@ For more click <i>help</i></b>"""
    ⬇️⬇️⬇️⬇️⬇️
 
 
-Contact on @TroJanzSupport
+Contact on @TroJanzSupport📢
 
 
 
 
-<b> @FCfilmcornerfc</b>
+<b> @FCfilmcornerfc</b>🎥
 
 
 
@@ -29,7 +31,7 @@ Contact on @TroJanzSupport
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """📑<b>My Name : FC™ AUTO FILTER BOT </b>
+    ABOUT_MSG = """📝<b>My Name : FC™ AUTO FILTER BOT </b>
     
 🧬<b>Owner :</b> @JINTONS (forked from @TroJanZheX)
 
